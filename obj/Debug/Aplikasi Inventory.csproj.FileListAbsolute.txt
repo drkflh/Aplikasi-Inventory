@@ -1,0 +1,12 @@
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\bin\Debug\bngkl.accdb
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\bin\Debug\Aplikasi Inventory.exe.config
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\bin\Debug\Aplikasi Inventory.exe
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\bin\Debug\Aplikasi Inventory.pdb
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\obj\Debug\Aplikasi Inventory.csproj.AssemblyReference.cache
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\obj\Debug\Aplikasi_Inventory.Form1.resources
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\obj\Debug\Aplikasi_Inventory.Properties.Resources.resources
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\obj\Debug\Aplikasi Inventory.csproj.GenerateResource.cache
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\obj\Debug\Aplikasi Inventory.csproj.CoreCompileInputs.cache
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\obj\Debug\Aplikasi Inventory.exe
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\obj\Debug\Aplikasi Inventory.pdb
+D:\Tugas Stematel XI\Tugas Proyek\inventory\Aplikasi Inventory\Aplikasi Inventory\obj\Debug\Aplikasi_Inventory.login.resources
